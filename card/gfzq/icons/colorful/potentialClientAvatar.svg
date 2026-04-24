@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="potentialClientAvatar-b" x1="50%" x2="50%" y1="0%" y2="127.183%">
+      <stop offset="0%" stop-color="#CBD8FD"/>
+      <stop offset="100%" stop-color="#E3EDFF"/>
+    </linearGradient>
+    <circle id="potentialClientAvatar-a" cx="7" cy="7" r="7"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <circle cx="7" cy="7" r="7" fill="#FFF"/>
+    <path fill="#EBEBEB" fill-rule="nonzero" d="M7-.58a7.58 7.58 0 1 1 0 15.16A7.58 7.58 0 0 1 7-.58M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0"/>
+    <mask id="potentialClientAvatar-c" fill="#fff">
+      <use xlink:href="#potentialClientAvatar-a"/>
+    </mask>
+    <use xlink:href="#potentialClientAvatar-a" fill="#FFF"/>
+    <g fill="url(#potentialClientAvatar-b)" fill-rule="nonzero" mask="url(#potentialClientAvatar-c)">
+      <path d="M3.37 6.611a2.722 2.722 0 1 1 5.444 0 2.722 2.722 0 0 1-5.444 0m3.83 3.63H4.985c-1.894 0-3.43 1.574-3.43 3.516v.227c0 .793 1.535.794 3.43.794h2.213c1.895 0 3.43-.03 3.43-.794v-.227c0-1.942-1.535-3.516-3.43-3.516m5.108-6.313h-.68v-.68a.136.136 0 0 0-.137-.137h-.816a.136.136 0 0 0-.136.136v.68h-.68a.136.136 0 0 0-.137.137v.816c0 .075.061.137.136.137h.68v.68c0 .075.062.136.137.136h.816a.136.136 0 0 0 .137-.136v-.68h.68a.136.136 0 0 0 .136-.137v-.816a.136.136 0 0 0-.136-.136"/>
+    </g>
+  </g>
+</svg>

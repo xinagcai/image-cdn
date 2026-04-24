@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 11</title>
+    <g id="卡片设计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.7.2.1挑选产品-多选产品-已选择" transform="translate(-322.000000, -260.000000)">
+            <g id="选择储蓄场景卡片" transform="translate(15.000000, 108.000000)">
+                <g id="编组-11" transform="translate(307.000000, 152.000000)">
+                    <path d="M0,0 L14,0 C18.418278,-8.11624501e-16 22,3.581722 22,8 L22,22 L22,22 C16.2904387,20.1072386 11.623772,17.3489719 8,13.7251999 C4.37622798,10.1014278 1.70956131,5.52636122 0,0 Z" id="矩形" fill="#4877FF"></path>
+                    <polyline id="路径-3" stroke="#FFFFFF" stroke-linecap="round" points="10.2741734 8.44809011 13.343444 11.4757184 18.7771895 6.0419729"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="questionTag-a" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#61A0FF"/>
+      <stop offset="100%" stop-color="#A2CFFF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#questionTag-a)" d="M7 0a7 7 0 0 1 5.056 11.84l1.115.871c.54.422.243 1.289-.442 1.289h-6.14v-.012A7 7 0 0 1 7 0m-.866 3.444-.258 1.571H4.87l-.13.761h1.02l-.386 2.392h-.88l-.128.76h.89l-.25 1.572h.86l.247-1.571h1.314L7.181 10.5h.86l.247-1.571h1.008l.128-.76H8.406l.386-2.393h.88l.128-.761h-.89l.248-1.571h-.85L8.05 5.015H6.737l.247-1.571zm1.798 2.332-.385 2.392H6.233l.385-2.392z" transform="translate(1 1)"/>
+</svg>

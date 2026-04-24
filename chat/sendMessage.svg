@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/发送@1x</title>
+    <defs>
+        <linearGradient x1="-1.69309011e-13%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3580FB" offset="0%"></stop>
+            <stop stop-color="#8EA5FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="24" height="24" rx="12"></rect>
+        <filter x="-6.2%" y="-6.2%" width="112.5%" height="112.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.582777706   0 0 0 0 0.72085723   0 0 0 0 0.906278306  0 0 0 0.584353147 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.471017264" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.5004679%" y1="16.4738857%" x2="59.2618046%" y2="77.9565878%" id="linearGradient-5">
+            <stop stop-color="#EDF1FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.2311753%" y1="60.0233431%" x2="32.4851082%" y2="47.8942241%" id="linearGradient-6">
+            <stop stop-color="#E4E7FF" offset="0%"></stop>
+            <stop stop-color="#F6F8FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/发送" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形备份">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+        <g id="icon/发送小飞机-白色" transform="translate(3.333333, 4.666667)">
+            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+            <g id="编组-7" transform="translate(0.014021, 1.638451)">
+                <path d="M6.26283717,6.39151579 L6.04962669,10.9128547 C6.0374864,11.1703015 6.23634661,11.388845 6.49379341,11.4009853 C6.6074379,11.4063443 6.71912571,11.3700035 6.80785691,11.2987956 L9.88132481,8.83229965 L9.88132481,8.83229965 L6.98860541,6.3794282 L6.26283717,6.39151579 Z" id="路径-5" fill="url(#linearGradient-4)"></path>
+                <path d="M13.7206879,0.394696913 L2.36637525,3.34521225 C1.8674787,3.47485479 1.56813918,3.9843864 1.69778172,4.48328295 C1.76461224,4.74046331 1.93789521,4.95696531 2.1741885,5.07851176 L6.17163033,7.13474817 L6.17163033,7.13474817 L10.9008626,11.6680295 C11.2729795,12.0247282 11.8638013,12.0122292 12.2205,11.6401122 C12.33325,11.5224886 12.4132435,11.3773978 12.4525254,11.2192687 L14.8612292,1.52304557 C14.9855024,1.02278451 14.6807041,0.516499456 14.180443,0.392226252 C14.0293828,0.354700372 13.8713361,0.355549693 13.7206879,0.394696913 Z" id="路径-4" fill="url(#linearGradient-5)"></path>
+                <polygon id="路径-6" fill="url(#linearGradient-6)" points="6.17163033 7.13474817 13.6143761 1.54435602 3.16357714 4.62707731 1.89462285 4.93015703"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

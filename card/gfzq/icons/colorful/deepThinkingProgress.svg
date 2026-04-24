@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="deepThinkingProgress-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#3086FF"/>
+      <stop offset="43.776%" stop-color="#3E76FF"/>
+      <stop offset="100%" stop-color="#095BDD"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h16v16H0z"/>
+    <circle cx="8" cy="8" r="6" fill="url(#deepThinkingProgress-a)"/>
+    <path fill="#D6E6FF" fill-rule="nonzero" d="M8 .286a7.714 7.714 0 1 1 0 15.428A7.714 7.714 0 0 1 8 .286M8 2a6 6 0 1 0 0 12A6 6 0 0 0 8 2"/>
+  </g>
+</svg>

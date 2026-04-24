@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/回到最新</title>
+    <defs>
+        <linearGradient x1="-1.69309011e-13%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4877FF" offset="0%"></stop>
+            <stop stop-color="#96AEFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="30" height="24" rx="12"></rect>
+        <filter x="-23.3%" y="-20.8%" width="146.7%" height="158.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.466666667   0 0 0 0 0.623529412   0 0 0 0 0.925490196  0 0 0 0.234866696 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-23.3%" y="-20.8%" width="146.7%" height="158.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.582777706   0 0 0 0 0.72085723   0 0 0 0 0.906278306  0 0 0 0.584353147 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/回到最新" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+        </g>
+        <g id="编组-23" transform="translate(7.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M8.04471587,2.66666667 C8.38660643,2.66666667 8.66376349,2.94382373 8.66376349,3.28571429 L8.6636685,10.7196667 L10.8458521,8.53896467 C11.0876052,8.29721153 11.4795645,8.29721153 11.7213176,8.53896467 L11.8590148,8.67666183 C12.1007679,8.91841496 12.1007679,9.31037423 11.8590148,9.55212736 L8.68182952,12.7293126 C8.49752268,12.9136195 8.2259134,12.9574151 8.00011628,12.8606997 C7.77476683,12.9575249 7.50270683,12.9138508 7.3181686,12.7293126 L7.3181686,12.7293126 L4.14098335,9.55212736 C3.89923022,9.31037423 3.89923022,8.91841496 4.14098335,8.67666183 L4.14098335,8.67666183 L4.27868051,8.53896467 C4.52043364,8.29721153 4.91239291,8.29721153 5.15414605,8.53896467 L5.15414605,8.53896467 L7.2306685,10.6156667 L7.23093506,3.28571429 C7.23093506,2.94382373 7.50809212,2.66666667 7.84998268,2.66666667 L8.04471587,2.66666667 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

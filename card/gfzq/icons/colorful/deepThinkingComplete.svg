@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="deepThinkingComplete-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#3086FF"/>
+      <stop offset="43.776%" stop-color="#3E76FF"/>
+      <stop offset="100%" stop-color="#095BDD"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#deepThinkingComplete-a)" fill-rule="evenodd" d="M8 1a7 7 0 1 1 0 14A7 7 0 0 1 8 1m3.945 3.641-.042.022-.209.139C9.45 6.328 7.774 8.127 6.888 9.189l-.055.066a.224.224 0 0 1-.263.062l-.052-.031-1.477-1.208a.74.74 0 0 0-.946.006.58.58 0 0 0-.049.841l2.733 2.902a.492.492 0 0 0 .824-.174c.791-1.686 2.425-4.233 4.388-6.23l.178-.177a.43.43 0 0 0 .12-.388l-.024-.083a.245.245 0 0 0-.32-.134"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FFF" stroke="#C9E1FF" stroke-width=".5" d="M.25.25h47.5v15.5H.25z"/>
+    <text fill="#3A92FF" font-family="PingFangSC-Regular, PingFang SC" font-size="10">
+                    <tspan x="14" y="12">中风险</tspan>
+                </text>
+    <path fill="#68ABFF" d="m8.167 4.029 3.5 1.24A.5.5 0 0 1 12 5.74v3.44q0 2.068-2.98 3.478Q8.206 13 8 13q-.205 0-1.015-.342Q4 11.25 4 9.18V5.74a.5.5 0 0 1 .333-.471l3.5-1.24a.5.5 0 0 1 .334 0m1.68 3.09a.5.5 0 0 0-.708.015L7.581 8.763l-.72-.753-.068-.06a.5.5 0 0 0-.64.045.503.503 0 0 0-.014.71l1.082 1.13.07.061a.5.5 0 0 0 .651-.06l1.919-2.007.056-.07a.5.5 0 0 0-.07-.64"/>
+  </g>
+</svg>
